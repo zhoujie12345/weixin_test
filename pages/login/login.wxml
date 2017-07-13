@@ -1,0 +1,16 @@
+<view class="loginView">
+  <view class="login_head">足球圈-登录</view>
+  <view class="login_input">
+    <view class="input1">
+      <input placeholder="手机号" />
+    </view>
+    <view class="input1">
+      <input placeholder="密码" />
+    </view>
+  </view>
+  <view class="login_text">
+    <text>还没有账号？点击此处立即</text>
+    <navigator url="/pages/register/register" hover-class="none">注册</navigator>
+  </view>
+  <button class="login_button">提 交</button>
+</view>

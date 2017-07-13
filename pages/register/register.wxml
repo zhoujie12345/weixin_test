@@ -1,0 +1,15 @@
+<view class="loginView">
+  <view class="login_head">足球圈-注册</view>
+  <view class="login_input">
+    <view class="input1">
+      <input placeholder="手机号" />
+    </view>
+    <view class="input1">
+      <input placeholder="密码" />
+    </view>
+    <view class="input1">
+      <input placeholder="昵称" />
+    </view>
+  </view>
+  <button class="login_button">提 交</button>
+</view>
